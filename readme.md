@@ -1,7 +1,7 @@
 ### Code for project on Particle Track Reconstruction - trackml dataset
 
 #### The repository has code for project done under Dr. Kinjal Banerjee
-
+This is all sharad's work, I have just his repo. and parts of it to improve my own implemenations
 Current Progress:
 - [x] Initial data exploration
 - [x] Clustering
